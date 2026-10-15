@@ -1,0 +1,6 @@
+{
+  "name": "BEACON — Offline Survival Route Planner",
+  "description": "Tactical offline survival route planner featuring a 40-sector regional grid, Dijkstra shortest path navigation, authentic curved offline maps, dynamic hazard rerouting, and survivor supply management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
